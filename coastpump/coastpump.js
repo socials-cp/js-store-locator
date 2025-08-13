@@ -30,8 +30,8 @@ var coastpumplocs = [
     "html": "<b>Brooksville, FL</b></br>13411 Chambord St, Brooksville, FL 34613</br>Phone: (352)-597-5800<br>Fax: (352)-597-5552"
   },
   {
-    "lon": -81.9517981,
-    "lat": 26.6619495,
+    "lon": -81.894515,
+    "lat": 26.667566,
     "title": "Cape Coral, FL",
     "street": "382 Pondella Rd, North Fort Myers, FL 33903",
     "desc": "Phone: (239)-772-1151<br>Fax: (239)-772-1161<br>Mgr: Tom Trendafilov<br>Regional Mgr: Ron Reagan",
